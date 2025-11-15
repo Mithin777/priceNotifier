@@ -3,4 +3,3 @@ module.exports = {
       domains: ['m.media-amazon.com'],
     },
   }
-  
